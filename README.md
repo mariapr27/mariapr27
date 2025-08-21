@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mariapr27
 - 👀 I’m interested in aprender mas desarrollo web y mostrar mi creatividad con mis diseños...
-- 🌱 I’m currently learning "Python"
+- 🌱 I’m currently learning "JavaScript"
 - 💞️ I’m looking to collaborate on proyectos de python para mostrar lo que se y aprender mas.
 - 📫 How to reach me, por mi instagram mariapr_27 o por correo mariapenarojas279@gmail.com
 - 😄 Pronouns: No tengo.
